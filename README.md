@@ -27,16 +27,16 @@
 # Pre Requisitos e Manual
 
 <p>Para ver este projeto em funcionamento, primeiro, você vai precisar clonar e importar o repositório do <a href="https://github.com/gabrielferreiradasilva/Teste-Morpheus-Backend">Back-end</a> e inicializá-lo (tutorial <a href="https://github.com/gabrielferreiradasilva/Teste-Morpheus-Backend/blob/main/README.md">aqui</a>.</p>
-<p>Depois você pode clonar este repositório na sua máquina ou baixar o zip e extrair na pasta de sua preferencia em sua máquina. Depois disso, você vai entrar no terminal do computador, ir para o diretório que você clonou o repositório, e digitar o comando "npm run serve" para rodá-lo. O comando irá te informar a url gerada na porta local do seu computador, você pode abri-la através do seu navegador. Caso não haja nenhum problema, você poderá usar todas as funcionalidades do sistema.</p>
+<p>Depois você pode clonar este repositório na sua máquina ou baixar o zip e extrair na pasta de sua preferencia em sua máquina. Depois disso, você vai entrar no terminal do computador, ir para o diretório que você clonou o repositório e instalar as dependencias, depois disso você pode executar o projeto com o comando "npm run serve". O comando irá te informar a url gerada na porta local do seu computador, você pode abri-la através do seu navegador. Caso não haja nenhum problema, você poderá usar todas as funcionalidades do sistema.</p>
 
 <p>Exemplo: (para esse exemplo você vai precisar ter instaladas as ferramentas <a href="https://git-scm.com/downloads">Git</a> e <a href="https://nodejs.org/en/download/">Node Js</a>)</p>
 
 ```bash
 # Clone o repositório.
-$ git clone https://github.com/gabrielferreiradasilva/Teste-Morpheus-Backend
+$ git clone https://github.com/gabrielferreiradasilva/Teste-Morpheus-Frontend
 
 # Acesse a pasta do projeto
-$ cd Teste-Morpheus-Backend
+$ cd Teste-Morpheus-Frontend
 
 # Instale as dependências
 $ npm install
@@ -47,7 +47,7 @@ $ npm run serve
 
 <p>Após você executar obterá esta tela</p>
 <img src="https://user-images.githubusercontent.com/95765547/155414199-14025bcb-11db-4a55-b29d-f20293d54bc1.png"/>
-<p>Abra o link local no navegador para ver o projeto.</p>
+<p>Abra o link local no seu navegador e poderá visualizar o projeto.</p>
 
 # Autor
   
@@ -58,5 +58,6 @@ $ npm run serve
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left ">
 <p>Email: **gabrielguimasilva@hotmail.com**</p>
-<a href="https://linkedin.com/in/linkedin.com/in/gabriel-ferreira-655034211" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedin.com/in/gabriel-ferreira-655034211" height= "80" largura="100" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/gabriel-ferreira-655034211" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedin.com/in/gabriel-ferreira-655034211" height= "80" largura="100"/></a>
+<a href="https://www.instagram.com/gabriel_f._silva_/" target="blank"><img align="center" src="https://image.shutterstock.com/image-photo/image-260nw-499761802.svg" alt="https://www.instagram.com/gabriel_f._silva_/" width="40px" /></a>
 </p>
